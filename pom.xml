@@ -13,7 +13,9 @@
   <version>0.2.3-SNAPSHOT</version>
 
   <properties>
+    <basepom.check.fail-dependency>false</basepom.check.fail-dependency>
     <basepom.check.fail-dependency-versions-check>false</basepom.check.fail-dependency-versions-check>
+    <basepom.check.fail-duplicate-finder>false</basepom.check.fail-duplicate-finder>
 
     <akka.version>2.5.2</akka.version>
     <akka-http.version>10.0.7</akka-http.version>
