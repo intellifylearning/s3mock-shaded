@@ -57,7 +57,9 @@
               <artifactSet>
                 <includes>
                   <include>io.findify:s3mock_2.11</include>
+                  <include>com.typesafe:*</include>
                   <include>com.typesafe.akka:*</include>
+                  <include>com.typesafe.scala-logging:scala-logging_2.11</include>
                 </includes>
               </artifactSet>
               <filters>
