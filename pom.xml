@@ -9,7 +9,7 @@
   </parent>
 
   <groupId>com.intellify</groupId>
-  <artifactId>s3mock-shaded</artifactId>
+  <artifactId>s3mock-shaded_2.11</artifactId>
   <version>0.2.3-SNAPSHOT</version>
 
   <properties>
